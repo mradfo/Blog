@@ -1,2 +1,2 @@
 # Blog
-This is my blog. I'm doing something wrong though.
+This is my blog. Currently the CSS file is not doing anything so figure that out.
