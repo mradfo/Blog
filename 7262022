@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+
+    <title>Girl with a Blog</title>
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <h1>July 26, 2022</h1>
+    <p2>
+      Today was a Tuesday. I got up at 7:45 so I could make lunch and a smoothie
+      and be out the door by 8:10. That didn't happen but I made it out at 8:15.
+      My smoothie was a little bland. It could have used some yogurt but all the
+      yogurt in our fridge is expired. I'm not going to be the one to throw it
+      out though, that just feels wrong. <br /><br />At work I tried to make
+      measurements with the buffer but the measurements seemed off so I waited
+      for Jason to help. When he came to help later, he said I was doing it
+      right so me and Andrew took all the measurements for that. I also worked a
+      little on writing a class that Jason was telling me about. It's supposed
+      to do the same thing that our Lockin Alignment script does but more
+      general and with Matlab timers. Speaking of timers, we spent about 3 hours
+      trying to solve an error with a timer that we were having and it was as
+      simple as making the timer callback functions local. How dumb is that?
+      Jason also mentioned lambda calculus today which I don't actually know how
+      to do but I know I'll learn it next semester so that's kinda sick.<br /><br />
+      I left at 5 to get to church and I did alot of productive things while
+      driving. I ate mozzerella cheese and subsequently spilled cheese juice all
+      over the car. Then I ate peanuts and for some reason they were greasy so I
+      got peanut oil on the steering wheel and my clothes. I also changed into
+      my VBS shirt while at a stoplight. Overall, more productive than I usually
+      am while driving. I changed into shorts when I got into the church parking
+      lot. That was a bit harder to do while driving. <br /><br />VBS pretty
+      much went by without a hitch. No kids were lost like last night and it
+      went pretty smoothly. I do think I've used all my brain power by the end
+      of the night because I couldn't figure out how to read the sign out sheets
+      when the parents came to pick up their kids. <br /><br />At home I tried
+      on my new jeans again. I can't wait until it gets cold enough to wear
+      them, they're so cool. I guess that's the end of my mundane day. The rest
+      of this week should look pretty similar. There's not much time for
+      anything else when I'm out for 13 hours and sleep for 9. Just about enough
+      time to write this blog post and eat dinner. Tomorrow I foresee a slight
+      deviation from the norm though. Stay tuned, and sleep well.
+    </p2>
+    <br />
+    <br />
+    <a href="index.html">Home</a>
+  </body>
+</html>
