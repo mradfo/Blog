@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+
+    <title>Girl with a Blog</title>
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <!-- this is the start of content -->
+    <h1>
+      Girl with a Blog
+    </h1>
+    <p1>
+      I'm Madison. As of today, July 26, 2022, I am 20 years old. I'm about to be a junior 
+      in college and I'm pretty excited about it. Here's what I do every day.
+    </p1>
+    <p>
+      
+    <a href = "07262022.html">7/26/2022</a>
+      </p>
+  </body>
+</html>
